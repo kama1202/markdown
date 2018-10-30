@@ -172,7 +172,7 @@ master로 이동 후
 [IT기초정리 # 07. GitHub연동/Git console명령어/Markdown|작성자 티메] (https://blog.naver.com/hunter8714/220811923681)
 
 
-============
+
 Markdown문법
 ============
 
