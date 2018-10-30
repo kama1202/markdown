@@ -86,7 +86,7 @@ HEAD : 가장 마지막으로 commit 된 곳.*
 *git remote add < 원격 저장소 >  <저장소url >
 ex) git remote add origin https:/ /github.com/name*
 
-**- 원격 저장소 설정 확인 **
+- 원격 저장소 설정 확인 
 *git remote -v*
 
 **- 원격 저장소에 저장(push)**
