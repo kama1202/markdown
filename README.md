@@ -82,7 +82,7 @@ HEAD : 가장 마지막으로 commit 된 곳.*
 -----------
 < remote & push >
 -----------
-**- 원격 저장소에 설정**
+- 원격 저장소에 설정
 *git remote add < 원격 저장소 >  <저장소url >
 ex) git remote add origin https:/ /github.com/name*
 
@@ -141,8 +141,8 @@ ex) git remote add origin https:/ /github.com/name*
 
 
 -----------
-**pull : 가져오자마자 mix(가공) 시킨 느낌. 서버에서 바뀐 것이 있는지 확인하고 가져오기까지. **
-**fetch : 데이터를 가져와서 서버에서 바뀐것이 있는지 확인하는 것. 가져오는 것 까진 하지만 merge를 하지 않는 것.**
+pull : 가져오자마자 mix(가공) 시킨 느낌. 서버에서 바뀐 것이 있는지 확인하고 가져오기까지. 
+fetch : 데이터를 가져와서 서버에서 바뀐것이 있는지 확인하는 것. 가져오는 것 까진 하지만 merge를 하지 않는 것.
 -----------
 
 *ex ) checkout을 통해서 3번 commit으로 이동해서 branch 생성.*
