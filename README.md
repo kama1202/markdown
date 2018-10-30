@@ -133,7 +133,7 @@ ex) git remote add origin https:/ /github.com/name*
 
 *3. git checkout -b <name>*
 
-**- branch 만들고 commit 상태 되돌리기 **
+- branch 만들고 commit 상태 되돌리기
 
 *1. git branch <name> (commit_id)*
 
@@ -167,7 +167,7 @@ git reset --soft HEAD~
 
 *branch생성 후 수정.*
 
-*master로 이동 후 *
+master로 이동 후 
 
 [IT기초정리 # 07. GitHub연동/Git console명령어/Markdown|작성자 티메] (https://blog.naver.com/hunter8714/220811923681)
 
