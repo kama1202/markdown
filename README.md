@@ -152,8 +152,8 @@ ex) git remote add origin https:/ /github.com/name*
 -----------
 < 되돌리기 : reset >
 -----------
-*- commit log 보기
-1. git reflog*
+*- commit log 보기*
+*1. git reflog*
 
 *- HEAD 상태로 이동
 git reset --soft HEAD~
