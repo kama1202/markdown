@@ -43,8 +43,8 @@ git config --global color.ui "off"
 -----------
 < 내부 저장소 저장 : add & commit >
 -----------
-*- 수정된 파일 index로 이동
- 1. git add <file명>  : 파일 1개씩 이동*
+*- 수정된 파일 index로 이동*
+ *1. git add <file명>  : 파일 1개씩 이동*
 
 *2. git add . : 디렉토리 안의 수정된 모든 파일 이동*
 
